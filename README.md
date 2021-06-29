@@ -12,4 +12,7 @@ This simple project goes over the use of useState and Hooks. It starts with a fo
 ```
 When the form is submitted, adds a box to the set of appropriate colors. This demostrates the use of useState, Hooks, and Components. This also give an example of one of three ways to style in React
 
-
+```
+## Pokemon Api
+```
+This project introduces how to read documentation and displays data from the API
